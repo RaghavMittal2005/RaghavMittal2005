@@ -32,9 +32,12 @@ When not coding, I’m usually reading papers, solving DSA problems, or playing 
 
 **End-to-End LLM from Scratch**  
 Built a complete GPT-style model in pure PyTorch including RoPE, RMSNorm, SwiGLU, KV caching, MoE layers, fine-tuning, reward modeling, and PPO-based RLHF.
+[→ View Repository](https://github.com/RaghavMittal2005/llm_scratch)
 
 **Voice-Driven AI Coding Assistant**  
 LangGraph-powered autonomous agent with speech recognition, Chain-of-Thought reasoning, tool execution, and safety guardrails.
+
+[→ View Repository](https://github.com/RaghavMittal2005/speech2speech)
 
 **MCP Agent**  
 A prototype demonstrating seamless integration of LangChain-style LLMs with **Model Context Protocol (MCP)** tools (including Chrome DevTools and weather servers). Features dynamic tool discovery and multi-server support.  
@@ -46,6 +49,7 @@ Production-ready semantic search system using FAISS vector search, sentence-tran
 
 **Fraud Detection Pipeline**  
 End-to-end ML system with MongoDB ETL, experiment tracking (MLflow), and real-time FastAPI deployment.
+[→ View Repository](https://github.com/RaghavMittal2005/networksecurity)
 
 ---
 
