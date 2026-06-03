@@ -22,7 +22,7 @@
 
 ### About Me
 
-Third year AI & DS student at IIT Jodhpur with a strong focus on **Generative AI** and **practical ML systems**.
+Final year AI & DS student at IIT Jodhpur with a strong focus on **Generative AI** and **practical ML systems**.
 
 I enjoy going beyond high-level frameworks — whether it's implementing transformer architectures from scratch, building autonomous agents, or creating efficient search and retrieval tools.
 
